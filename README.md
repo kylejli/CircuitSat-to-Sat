@@ -1,5 +1,5 @@
 # CircuitSat-to-Sat
-CircuitSat to Sat Polyreduction. ECS 120 Project
+CircuitSat to Sat Polyreduction. School Project
 
 ## Problem
 - I wrote a Python program to polyreduce CircuitSat to Sat. 
